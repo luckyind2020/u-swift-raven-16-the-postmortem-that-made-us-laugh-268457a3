@@ -1,0 +1,1 @@
+Root cause: the agent shipped a "quick fix" on Friday at 4:59 p.m. because the ticket said urgent, so production was down 47 minutes, the rollback took three hours, and the fix now has its own 2,000-line incident report. Action item: every future "quick fix" must be approved by a second agent whose only job is to say no.
